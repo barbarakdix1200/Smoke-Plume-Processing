@@ -24,3 +24,5 @@ Igor Pro 9
 If you use this code in your research, please cite the above study.  
 
 This repository is distributed under the MIT license.
+
+For questions contact Barbara Dix: barbara.dix@colorado.edu
